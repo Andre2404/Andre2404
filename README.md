@@ -9,11 +9,13 @@ Hi there I'm Andre. I'm an Tech Engineer (wanna be) from background Mechatronics
 
 ## Quick overview
 
-#### GitHub stats 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+#### GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Andre2404/Andre2404/main/summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/Andre2404/Andre2404/main/summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/Andre2404/Andre2404/main/summary-card-output/default/2-most-commit-language.svg"></br>
+</p>
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
